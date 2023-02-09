@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/thunderb0rn/projects/QPass/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/thunderb0rn/projects/QPass/build -I/home/thunderb0rn/projects/QPass -I/home/thunderb0rn/projects/QPass/build/qpass_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/qpass.dir/qpass_autogen/mocs_compilation.cpp.o -c /home/thunderb0rn/projects/QPass/build/qpass_autogen/mocs_compilation.cpp",
+  "file": "/home/thunderb0rn/projects/QPass/build/qpass_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/thunderb0rn/projects/QPass/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/thunderb0rn/projects/QPass/build -I/home/thunderb0rn/projects/QPass -I/home/thunderb0rn/projects/QPass/build/qpass_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/qpass.dir/src/passgen.cpp.o -c /home/thunderb0rn/projects/QPass/src/passgen.cpp",
+  "file": "/home/thunderb0rn/projects/QPass/src/passgen.cpp"
+},
+{
+  "directory": "/home/thunderb0rn/projects/QPass/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/thunderb0rn/projects/QPass/build -I/home/thunderb0rn/projects/QPass -I/home/thunderb0rn/projects/QPass/build/qpass_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/qpass.dir/src/main.cpp.o -c /home/thunderb0rn/projects/QPass/src/main.cpp",
+  "file": "/home/thunderb0rn/projects/QPass/src/main.cpp"
+},
+{
+  "directory": "/home/thunderb0rn/projects/QPass/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/thunderb0rn/projects/QPass/build -I/home/thunderb0rn/projects/QPass -I/home/thunderb0rn/projects/QPass/build/qpass_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/qpass.dir/src/qpass.cpp.o -c /home/thunderb0rn/projects/QPass/src/qpass.cpp",
+  "file": "/home/thunderb0rn/projects/QPass/src/qpass.cpp"
+}
+]
