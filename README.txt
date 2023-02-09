@@ -1,1 +1,1 @@
-MOVE src/ui to executable fale dir.
+MOVE src/ui to executable file dir.
